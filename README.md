@@ -15,6 +15,9 @@ This project analyzes air quality trends in Delhi using real-world environmental
 
 ---
 
+
+---
+
 ## 📊 Features of the Project
 
 - 📌 Data Cleaning and Preprocessing  
@@ -24,6 +27,7 @@ This project analyzes air quality trends in Delhi using real-world environmental
 - 📌 Pollution vs Holidays & Days  
 - 📌 AQI Distribution and Severity  
 - 📌 Heatmaps and Comparison Charts  
+- 🔮 AQI Prediction using Linear Regression  
 
 ---
 
@@ -45,9 +49,19 @@ This project analyzes air quality trends in Delhi using real-world environmental
 - Jupyter Notebook  
 - Pandas, NumPy  
 - Matplotlib, Seaborn  
+- scikit-learn (for prediction)  
 - (Optional) Plotly for interactive charts  
 
 ---
+
+## 🚀 Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/yourusername/delhi_air_quality.git
+cd delhi_air_quality
+
 
 ## 🚀 Getting Started
 
@@ -80,12 +94,13 @@ jupyter notebook delhi_air_quality.ipynb
 - What are the most harmful pollutants in Delhi?
 - Does air quality improve on holidays or weekends?
 - What is the relationship between different pollutants?
+- Can we predict AQI or pollutant levels based on available features?
 
 ---
 
 ## 📌 Future Work
 
-- Add predictive analysis using Machine Learning  
+- Enhance model accuracy using advanced ML techniques 
 - Live AQI updates using API  
 - Create a dashboard using Streamlit or Dash  
 
