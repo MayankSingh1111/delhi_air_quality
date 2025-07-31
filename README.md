@@ -50,8 +50,6 @@ This project analyzes air quality trends in Delhi using real-world environmental
 - Pandas, NumPy  
 - Matplotlib, Seaborn  
 - scikit-learn (for prediction)  
-- (Optional) Plotly for interactive charts  
-
 ---
 
 ## 🚀 Getting Started
