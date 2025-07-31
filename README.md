@@ -104,12 +104,6 @@ jupyter notebook delhi_air_quality.ipynb
 
 ---
 
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 ## 🙋‍♂️ Author
 
 **Raghav**  
